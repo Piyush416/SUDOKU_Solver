@@ -37,9 +37,9 @@ A Python-based Sudoku solver using the **Pygame** library. This project provides
    - Press `Space` to solve the puzzle automatically.
 
 ## How It Works
-   1.Enter numbers on the Sudoku grid manually or use a pre-filled puzzle.
-   2.Press the Solve button to visualize the solution step by step.
-   3.If the puzzle is valid, the algorithm will solve it; otherwise, it will indicate an error.
+   1. Enter numbers on the Sudoku grid manually or use a pre-filled puzzle.
+   2. Press the Solve button to visualize the solution step by step.
+   3. If the puzzle is valid, the algorithm will solve it; otherwise, it will indicate an error.
 
 
 ## Technologies Used
