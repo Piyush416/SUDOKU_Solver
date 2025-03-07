@@ -36,10 +36,9 @@ A Python-based Sudoku solver using the **Pygame** library. This project provides
    - Press `H` to get a hint.
    - Press `Space` to solve the puzzle automatically.
 
-## How It Works
-   1. Enter numbers on the Sudoku grid manually or use a pre-filled puzzle.
-   2. Press the Solve button to visualize the solution step by step.
-   3. If the puzzle is valid, the algorithm will solve it; otherwise, it will indicate an error.
+## ScreenShot
+![Visualizer](https://github.com/user-attachments/assets/11a6961d-f99a-4795-b0c6-2e44e52bf842)
+![Entering Values](https://github.com/user-attachments/assets/495bfd47-3c0f-4b73-95eb-54361ee6d0b5)
 
 
 ## Technologies Used
